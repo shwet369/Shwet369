@@ -1,8 +1,6 @@
 Welcome to shwetas ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Data science Diary 👩‍💻
 ====================================================================================================================================
 
-Welcome to my GitHub space, where my journey into the vast and vibrant world of Data Science unfolds!
------------------------------------------------------------------------------------------------------
 Hey there! I'm Shweta, a burgeoning data scientist whose journey from curiosity to analytics is filled with endless learning and excitement.
 Data science, to me, is not just about algorithms and models; 
 it's a doorway to understanding the world in numbers and making an impact, one insight at a time.
@@ -16,6 +14,7 @@ I'm navigating the transition into data science with an eagerness to absorb ever
 Continuous Learning: The heart of data science beats with continuous learning, and I'm here for all of it—analytics, machine learning, data engineering, and more.
 Applying Knowledge: Theory is great, but application is where the magic happens. I'm working on projects that apply what I've learned in meaningful ways.
 Community Collaboration: The data science community is vast and knowledgeable. I'm keen on collaborating, sharing, and growing with everyone.
+
 **💼 Projects on the Horizon**
 
 I'm just getting started, but here's a sneak peek at what I'm working on:
@@ -25,6 +24,7 @@ Customer Behavior Analysis: Using Python to dive into sales data and uncover pat
 Climate Change Insights: Analyzing environmental data to visualize the impact of climate change over the decades.
 
 **📚 Learning Path**
+
 My journey is fueled by a relentless pursuit of knowledge:
 
 Currently unraveling the mysteries of machine learning, from supervised to unsupervised learning techniques.
