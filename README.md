@@ -1,21 +1,23 @@
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I Am Shweta 👩‍💻
 ====================================================================================================================================
 
-Welcome to my GitHub space, where my journey into the vast and vibrant world of Data Science unfolds.
+Welcome to my GitHub space, where my journey into the vast and vibrant world of Data Science unfolds!
 -----------------------------------------------------------------------------------------------------
 
-\### 🌟 A Little About Me Transitioning into the field of Data Science, 
+\### 🌟 A Little About Me 
+Transitioning into the field of Data Science, 
 I bring with me a passion for learning and a determination to make a difference through data. 
 My journey is about blending curiosity with analytics, using data to find solutions that matter.
 While I may be new to this field, my ambition is sky-high, and my journey has just begun.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [shwetabhoyar04@gmail.com](mailto:shwetabhoyar04@gmail.com)
-* 🧠  I'm learning
-*  ### 🚀 Mission Statement: Here's what I'm focused on as I dive into Data Science: - \*\*Learning and Mastering\*\*: I'm dedicated to understanding the core concepts of data analysis, machine learning, and beyond. - \*\*Project Building\*\*: Applying theoretical knowledge to real-world data, showcasing my learning curve and project outcomes right here. - \*\*Community Engagement\*\*: Joining hands with fellow data enthusiasts, learning collaboratively, and contributing to the community.
-* 🤝  I'm open to collaborating on
 
-* ⚡  ### 💡 What I'm Working On Though I'm at the early stages of my data science journey, here are a few areas I've started exploring: - \*\*Data Analysis with Python\*\*: Leveraging libraries like Pandas and NumPy to process and analyze data, turning raw numbers into meaningful insights. - \*\*Machine Learning Foundations\*\*: Experimenting with scikit-learn to understand and build basic predictive models, laying the groundwork for more complex algorithms. - \*\*Data Visualization Techniques\*\*: Using tools like Matplotlib and Seaborn to create visual narratives of data, making insights accessible and engaging.
+  *  ### 🚀 Mission Statement:
+*   Here's what I'm focused on as I dive into Data Science - \*\*Learning and Mastering\*\*: I'm dedicated to understanding the core concepts of data analysis, machine learning, and beyond. - \*\*Project Building\*\*: Applying theoretical knowledge to real-world data, showcasing my learning curve and project outcomes right here. - \*\*Community Engagement\*\*: Joining hands with fellow data enthusiasts, learning collaboratively, and contributing to the community.
+
+
+* ⚡  ### 💡 What I'm Working On Though
+* I'm at the early stages of my data science journey, here are a few areas I've started exploring: - \*\*Data Analysis with Python\*\*: Leveraging libraries like Pandas and NumPy to process and analyze data, turning raw numbers into meaningful insights. - \*\*Machine Learning Foundations\*\*: Experimenting with scikit-learn to understand and build basic predictive models, laying the groundwork for more complex algorithms. - \*\*Data Visualization Techniques\*\*: Using tools like Matplotlib and Seaborn to create visual narratives of data, making insights accessible and engaging.
 *
 * ### 🌱 Currently Learning - Diving deeper into machine learning, with a keen interest in exploring neural networks and deep learning. - Exploring big data technologies to understand how to handle and analyze data at scale. - Familiarizing myself with cloud platforms for efficient deployment of data science models.
 
@@ -38,4 +40,7 @@ While I may be new to this field, my ambition is sky-high, and my journey has ju
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shweta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-*  ### 🔍 Let's Connect! I'm always eager to connect with like-minded individuals, share knowledge, and collaborate on exciting projects. Whether you're a fellow data science enthusiast, someone curious about my journey, or have insights to share, I'd love to hear from you!
+* 🤝  I'm open to collaborating on
+*  ### 🔍 Let's Connect! I'm always eager to connect with like-minded individuals, share knowledge, and collaborate on exciting projects.
+Whether you're a fellow data science enthusiast, someone curious about my journey, or have insights to share, I'd love to hear from you!
+* ✉️  You can contact me at [shwetabhoyar04@gmail.com](mailto:shwetabhoyar04@gmail.com)
