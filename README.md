@@ -12,6 +12,7 @@ I'm navigating the transition into data science with an eagerness to absorb ever
 **🚀 What Drives Me**
 
 Continuous Learning: The heart of data science beats with continuous learning, and I'm here for all of it—analytics, machine learning, data engineering, and more.
+
 Applying Knowledge: Theory is great, but application is where the magic happens. I'm working on projects that apply what I've learned in meaningful ways.
 Community Collaboration: The data science community is vast and knowledgeable. I'm keen on collaborating, sharing, and growing with everyone.
 
