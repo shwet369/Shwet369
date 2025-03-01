@@ -1,38 +1,67 @@
-Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Data science Diary 📒🗓️🗺
+Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Data science Diary 
 ====================================================================================================================================
 
-Hey there! I'm Shweta, a burgeoning data scientist whose journey from curiosity to analytics is filled with endless learning and excitement.
-Data science, to me, is not just about algorithms and models; 
-it's a doorway to understanding the world in numbers and making an impact, one insight at a time.
+# Hi there, I'm Shwet Bhoyar! 👋
 
-**🌈 My Story**
+🚀 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
+🎯 Passionate about solving real-world problems with data and AI.
 
-I'm navigating the transition into data science with an eagerness to absorb everything this field has to offer. My path is paved with challenges, but each challenge is a new opportunity to grow. My background may not be traditional, but my perspective is unique, and my resolve to thrive in data science is unwavering.
+---
 
-**🚀 What Drives Me**
+## 🌟 About Me
 
-Continuous Learning: The heart of data science beats with continuous learning, and I'm here for all of it—analytics, machine learning, data engineering, and more.
+- 💻 Junior Machine Learning Executive at **Nindo Education LLP, Bangalore**
+- 📊 Data Analyst | AI & ML Researcher | Deep Learning Practitioner
+- 🎓 **Master of Science in Data Science** & **B.Tech in Computer Science**
+- 🔍 Currently working on **Hyper Personalized Reinforcement-Based Recommendation System**
+- ✍️ Writing **data science blogs on Medium** ([Check them out!](https://medium.com/@shweta.bhoyar))
+- 🌱 Exploring **LangChain, NLP, and Generative AI**
 
-Applying Knowledge: Theory is great, but application is where the magic happens. I'm working on projects that apply what I've learned in meaningful ways.
-Community Collaboration: The data science community is vast and knowledgeable. I'm keen on collaborating, sharing, and growing with everyone.
+---
 
-**💼 Projects on the Horizon**
+## 🛠️ Tech Stack
 
-I'm just getting started, but here's a sneak peek at what I'm working on:
+- **Programming Languages:** Python, SQL
+- **Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Databases:** MySQL, PostgreSQL
+- **Cloud & Deployment:** AWS, Heroku, Streamlit
+- **Version Control:** Git, GitHub
+- **Others:** Excel, NLP, Reinforcement Learning
 
-Customer Behavior Analysis: Using Python to dive into sales data and uncover patterns that help predict future buying trends.
+---
 
-Climate Change Insights: Analyzing environmental data to visualize the impact of climate change over the decades.
+## 🔥 Featured Projects
 
-**📚 Learning Path**
+### 🎯 **Hyper Personalized Reinforcement-Based Recommendation System**  
+🔹 Built a recommendation system using **Deep Reinforcement Learning** for personalized product suggestions on e-commerce platforms.  
+🔹 Tech Stack: Python, TensorFlow, Reinforcement Learning, Flask
+🔹 [Project Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation)
 
-My journey is fueled by a relentless pursuit of knowledge:
+### 🍽 **Restaurant Data Analysis**  
+🔹 Performed **EDA & predictive analytics** on restaurant data to identify key trends.  
+🔹 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib
+🔹 [Project Repository](https://github.com/shwet369/Restaurant-Data-Analysis)
 
-Currently unraveling the mysteries of machine learning, from supervised to unsupervised learning techniques.
-Exploring data wrangling and preprocessing techniques to build clean, efficient datasets for analysis.
-Venturing into the world of cloud computing to learn about deploying and scaling data science applications.
+### 🚗 **Car Data Analysis at Evoastra Ventures**  
+🔹 Analyzed **car performance and customer preferences** using large datasets.  
+🔹 Tech Stack: SQL, Pandas, Power BI, Excel
+🔹 [Project Repository](https://github.com/shwet369/Car-Data-Analysis)
 
-### Skills
+### 📈 **Sentiment Analysis at iNeuron**  
+🔹 Developed **NLP models** to analyze and predict sentiment trends.  
+🔹 Tech Stack: Python, NLTK, SpaCy, Machine Learning
+🔹 [Project Repository](https://github.com/shwet369/Sentiment-Analysis)
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 **GitHub:** [@shwet369](https://github.com/shwet369)
+- 🔗 **LinkedIn:** [Shweta Bhoyar](https://www.linkedin.com/in/shweta-bhoyar-datascience/)
+- ✉️ **Email:** shwetabhoyar04@gmail.com
+
+💡 _Let's collaborate on exciting AI & ML projects!_ 🚀
 
 
 <p align="left">
