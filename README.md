@@ -10,9 +10,9 @@ Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/17630
 
 ## 🌟 About Me
 
-- 💻 Junior Machine Learning Executive at **Nindo Education LLP, Bangalore**
+- 💻 Junior Data scientist 
 - 📊 Data Analyst | AI & ML Researcher | Deep Learning Practitioner
-- 🎓 **Master of Science in Data Science** & **B.Tech in Computer Science**
+- 🎓 **Certified in Data Science** & **Master of commerce in Statistics and mathmatics**
 - 🔍 Currently working on **Hyper Personalized Reinforcement-Based Recommendation System**
 - ✍️ Writing **data science blogs on Medium** ([Check them out!]([(https://medium.com/@shwetabhoyar04)]))
 - 🌱 Exploring **LangChain, NLP, and Generative AI**
