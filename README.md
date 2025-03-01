@@ -14,7 +14,7 @@ Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/17630
 - 📊 Data Analyst | AI & ML Researcher | Deep Learning Practitioner
 - 🎓 **Certified in Data Science** & **Master of commerce in Statistics and mathmatics**
 - 🔍 Currently working on **Hyper Personalized Reinforcement-Based Recommendation System**
-- ✍️ Writing **data science blogs on Medium** ([Check them out!]([(https://medium.com/@shwetabhoyar04)])
+- ✍️ Writing **data science blogs on Medium** ([Check them out!](https://medium.com/@shwetabhoyar04))
 - 🌱 Exploring **LangChain, NLP, and Generative AI**
 
 ---
