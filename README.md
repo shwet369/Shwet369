@@ -14,7 +14,7 @@ Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/17630
 - 📊 Data Analyst | AI & ML Researcher | Deep Learning Practitioner
 - 🎓 **Master of Science in Data Science** & **B.Tech in Computer Science**
 - 🔍 Currently working on **Hyper Personalized Reinforcement-Based Recommendation System**
-- ✍️ Writing **data science blogs on Medium** ([Check them out!](https://medium.com/@shweta.bhoyar))
+- ✍️ Writing **data science blogs on Medium** ([Check them out!]([(https://medium.com/@shwetabhoyar04)]))
 - 🌱 Exploring **LangChain, NLP, and Generative AI**
 
 ---
@@ -33,25 +33,25 @@ Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/17630
 
 ## 🔥 Featured Projects
 
-### 🎯 **Hyper Personalized Reinforcement-Based Recommendation System**  
-🔹 Built a recommendation system using **Deep Reinforcement Learning** for personalized product suggestions on e-commerce platforms.  
-🔹 Tech Stack: Python, TensorFlow, Reinforcement Learning, Flask
-🔹 [Project Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation)
-
 ### 🍽 **Restaurant Data Analysis**  
 🔹 Performed **EDA & predictive analytics** on restaurant data to identify key trends.  
 🔹 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib
-🔹 [Project Repository](https://github.com/shwet369/Restaurant-Data-Analysis)
+🔹 [Project Repository](https://github.com/shwet369/CuisineQuest---Analytical-Exploration-of-Restaurant-Success-Factors)
 
 ### 🚗 **Car Data Analysis at Evoastra Ventures**  
 🔹 Analyzed **car performance and customer preferences** using large datasets.  
 🔹 Tech Stack: SQL, Pandas, Power BI, Excel
-🔹 [Project Repository](https://github.com/shwet369/Car-Data-Analysis)
+🔹 [Project Repository](https://github.com/shwet369/Isuzu_Cars_in_Mumbai_Project-)
 
 ### 📈 **Sentiment Analysis at iNeuron**  
 🔹 Developed **NLP models** to analyze and predict sentiment trends.  
 🔹 Tech Stack: Python, NLTK, SpaCy, Machine Learning
 🔹 [Project Repository](https://github.com/shwet369/Sentiment-Analysis)
+
+### 🎯 **Hyper Personalized Reinforcement-Based Recommendation System**  
+🔹 Built a recommendation system using **Deep Reinforcement Learning** for personalized product suggestions on e-commerce platforms.  
+🔹 Tech Stack: Python, TensorFlow, Reinforcement Learning, Flask
+🔹 [Project Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation)
 
 ---
 
