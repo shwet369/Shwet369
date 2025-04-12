@@ -1,4 +1,4 @@
-Welcome to shweta's ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Data science Diary 
+Welcome in shweta's ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Data science Diary 
 ====================================================================================================================================
 
 # Hi there, I'm Shwet Bhoyar! 👋
