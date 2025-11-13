@@ -20,7 +20,13 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 - 🎓 **Certified Data Scientist** with a Master’s in Commerce (Statistics & Mathematics)  
 - ✍️ Writing **Data Science blogs** on Medium → [@shwetabhoyar04](https://medium.com/@shwetabhoyar04)  
 - 🌱 Currently exploring **LangChain, LLMs, NLP, and MLOps**  
-- 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)  
+- 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)
+---  
+🏅 LeetCode Progress
+<p align="center"> <a href="https://leetcode.com/shwet369/" target="_blank"> <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="180" width="180"/> </a> <a href="https://leetcode.com/shwet369/" target="_blank"> <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="180" width="180"/> </a> <a href="https://leetcode.com/medal/?showImg=0&id=8492804&isLevel=false" target="_blank"> <img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_Bug_50.gif" height="180" width="180"/> </a></p>
+---
+⚡ Current Statistics
+<div align="center"> <img width=390 src="https://streak-stats.demolab.com/?user=shwet369&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=390 src="https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" /> </div>
 
 ---
 
