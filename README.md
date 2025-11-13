@@ -115,6 +115,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 <a href="https://medium.com/@shwetabhoyar04"><img src="https://img.icons8.com/color/48/medium-logo.png" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@shwetabhoyar-y6j"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
 <a href="https://www.instagram.com/brainsandbytes.shwet/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="32" height="32" /></a>
+  <a href="https://www.kaggle.com/shwetashwet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32" height="32" alt="Kaggle"/> </a>
 </p>
 
 ---
