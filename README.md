@@ -111,7 +111,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 <a href="https://github.com/shwet369"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/shweta-bhoyar-datascience/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="mailto:shwetabhoyar04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="32" height="32" /></a>
-<a href="https://leetcode.com/u/shweta_bhoyar1/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-leetcode-online-judge-for-coding-interviews-logo-shadow-tal-revivo.png" width="32" height="32" /></a>
+<a href="https://leetcode.com/u/shweta_bhoyar1/"><img src="https://iconscout.com/free-icon/free-leetcode-logo-icon_3031905" width="32" height="32" /></a>
 <a href="https://medium.com/@shwetabhoyar04"><img src="https://img.icons8.com/color/48/medium-logo.png" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@shwetabhoyar-y6j"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
 <a href="https://www.instagram.com/brainsandbytes.shwet/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="32" height="32" /></a>
