@@ -26,7 +26,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 
 ## 💼 Experience  
 
-- **Machine Learning Intern – NullClass** | *2024–2025*  
+- **Data Science Intern – NullClass** | *2024–2025*  
   Developed CNN-based age and emotion detection models achieving 75%+ accuracy.  
   Enhanced attendance automation system using face recognition and emotion tracking.
 
@@ -34,7 +34,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
   Conducted EDA and applied predictive modeling on restaurant and customer data.  
   Improved insight generation time by 30% through streamlined Python pipelines.
 
-- **Data Analyst Intern – Evoastra Ventures** | *2023*  
+- **Data Analyst Intern – Evoastra Ventures** | *2024*  
   Automated dashboard reporting with Python & Power BI, improving decision time by 25%.  
   Analyzed large SQL datasets to identify performance patterns in car data.
 
