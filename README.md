@@ -1,83 +1,97 @@
-Welcome in shweta's Data science Diary ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-====================================================================================================================================
-
-# Hi there, I'm Shwet Bhoyar! 👋
-
-🚀 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
-🎯 Passionate about solving real-world problems with data and AI.
+# 🌟 Welcome to Shweta's Data Science Diary!  
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
 
-## 🌟 About Me
-
-- 💻 Junior Data scientist 
-- 📊 Data Analyst | AI & ML Researcher | Deep Learning Practitioner
-- 🎓 **Certified in Data Science** & **Master of commerce in Statistics and mathmatics**
-- ✍️ Writing **data science blogs on Medium** ([Check them out!](https://medium.com/@shwetabhoyar04))
-- 🌱 Exploring **LangChain, NLP, and Generative AI**
+## 👋 Hi there, I'm Shwet Bhoyar!  
+🚀 **Data Scientist | Machine Learning & AI Enthusiast | Data Analyst**  
+🎯 Passionate about transforming data into insights and building intelligent systems that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 About Me  
 
-- **Programming Languages:** Python, SQL
-- **Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Databases:** MySQL, PostgreSQL
-- **Cloud & Deployment:** AWS, Heroku, Streamlit
-- **Version Control:** Git, GitHub
-- **Others:** Excel, NLP, Reinforcement Learning
+- 📊 Experienced in **Data Analytics, Machine Learning, Deep Learning, and Generative AI**  
+- 🎓 **Certified Data Scientist** with a Master’s in Commerce (Statistics & Mathematics)  
+- ✍️ Writing **Data Science blogs** on Medium → [@shwetabhoyar04](https://medium.com/@shwetabhoyar04)  
+- 🌱 Exploring **LangChain, LLMs, NLP, and MLOps**  
+- 🎥 Running a creative YouTube channel — [Motion & Graphics Lab](https://www.youtube.com/@motiongraphicslab)  
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 Tech Stack  
 
-### 🍽 **Restaurant Data Analysis**  
-🔹 Performed **EDA & predictive analytics** on restaurant data to identify key trends.  
-🔹 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib
-🔹 [Project Repository](https://github.com/shwet369/CuisineQuest---Analytical-Exploration-of-Restaurant-Success-Factors)
-
-### 🚗 **Car Data Analysis at Evoastra Ventures**  
-🔹 Analyzed **car performance and customer preferences** using large datasets.  
-🔹 Tech Stack: SQL, Pandas, Power BI, Excel
-🔹 [Project Repository](https://github.com/shwet369/Isuzu_Cars_in_Mumbai_Project-)
-
-### 📈 **Sentiment Analysis at iNeuron**  
-🔹 Developed **NLP models** to analyze and predict sentiment trends.  
-🔹 Tech Stack: Python, NLTK, SpaCy, Machine Learning
-🔹 [Project Repository](https://github.com/shwet369/Sentiment-Analysis)
-
-### 🎯 **Hyper Personalized Reinforcement-Based Recommendation System**  
-🔹 Built a recommendation system using **Deep Reinforcement Learning** for personalized product suggestions on e-commerce platforms.  
-🔹 Tech Stack: Python, TensorFlow, Reinforcement Learning, Flask
-🔹 [Project Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation)
-
----
-
-## 📫 Connect with Me
-
-- 🔗 **GitHub:** [@shwet369](https://github.com/shwet369)
-- 🔗 **LinkedIn:** [Shweta Bhoyar](https://www.linkedin.com/in/shweta-bhoyar-datascience/)
-- ✉️ **Email:** shwetabhoyar04@gmail.com
-
-💡 _Let's collaborate on exciting AI & ML projects!_ 🚀
-
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, OpenCV  
+**Data Tools:** Power BI, Excel, MySQL, PostgreSQL  
+**Cloud & Deployment:** AWS, Heroku, Streamlit, Flask  
+**Concepts:** NLP, Deep Learning, Reinforcement Learning, Generative AI  
+**Version Control:** Git, GitHub  
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" width="36" height="36" alt="Flow" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" /></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" /></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" /></a>
+<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" /></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" /></a>
 </p>
 
-**✨ Let's Connect and Create Together!**
-If you're on a similar journey, or if you have wisdom, challenges, or opportunities to share, I'd be thrilled to connect. Let's explore the vast universe of data science together:
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/https://github.com/shwet369" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shweta-bhoyar-7461831b3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 🔥 Featured Projects  
 
-### Support Me
+| 🚀 Project | 💬 Description | 🧩 Tech Stack | 🔗 Link |
+|-------------|----------------|---------------|----------|
+| 🎭 **Emotion Detection (FER-2013)** | Built CNN model from scratch to classify human emotions with Grad-CAM visualizations | TensorFlow, Keras, OpenCV | [🔗 View Project](https://github.com/shwet369/Emotion-Detection-CNN) |
+| 🧓 **Age Detection (UTKFace)** | Designed CNN to predict human age using facial datasets with 75%+ accuracy | Python, TensorFlow | [🔗 Repository](https://github.com/shwet369/Age-Detection-UTKFace) |
+| 🧠 **Smart Attendance System** | Real-time attendance + emotion detection web app using face recognition | Python, OpenCV, Flask | [🔗 Project](https://github.com/shwet369/Smart-Attendance-System) |
+| 🛍 **E-Commerce Recommendation System** | Reinforcement-based personalized recommendation system for e-commerce | Python, RL, Flask | [🔗 Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation) |
+| 💬 **Sentiment Analysis (iNeuron)** | Trained NLP model to classify and analyze sentiments of reviews | Python, NLTK, SpaCy | [🔗 Repository](https://github.com/shwet369/Sentiment-Analysis) |
+| 🚗 **Car Data Analysis (Evoastra Ventures)** | Analyzed car performance data and built dashboards | Power BI, SQL, Python | [🔗 Project](https://github.com/shwet369/Isuzu_Cars_in_Mumbai_Project-) |
 
-<ul style="list-style-type: none; margin: 0;">
+---
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shweta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+## 🧾 Certifications  
 
-</ul>
-* 
+- [Oracle Generative AI – Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3004382663597BAC691753942ED038CC93F99F6D0A90E167985FE082BEA42AB)  
+- [SQL (Basic) – HackerRank](https://www.hackerrank.com/certificates/cda7735566ac)  
+- [Programming – TestDome](https://www.testdome.com/certificates/ddd71addc57049dead93d53302218a83)  
+- [Credly Badge](https://www.credly.com/badges/73f543bf-85a3-425a-b278-2c3e91e95956)  
+- [Great Learning – Data Science Foundations](https://www.mygreatlearning.com/certificate/FJRPZFPV)  
+- [Great Learning – Python for Machine Learning](https://www.mygreatlearning.com/certificate/VNLDBALS)  
+
+---
+
+## 📊 GitHub Insights  
+
+![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/shwet369"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shweta-bhoyar-datascience/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="mailto:shwetabhoyar04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="32" height="32" /></a>
+<a href="https://medium.com/@shwetabhoyar04"><img src="https://img.icons8.com/color/48/medium-logo.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@motiongraphicslab"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
+</p>
+
+---
+
+### ☕ Support My Work  
+
+<a href="https://www.buymeacoffee.com/shweta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+---
+
+✨ *Let’s collaborate on data-driven, creative, and AI-powered projects!*  
+📩 _Reach out if you’d like to build something exciting together._
+
