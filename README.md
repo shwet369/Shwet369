@@ -23,7 +23,13 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 - 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)
 ---  
 🏅 LeetCode Progress
-<p align="center"> <a href="https://leetcode.com/shwet369/" target="_blank"> <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="180" width="180"/> </a> <a href="https://leetcode.com/shwet369/" target="_blank"> <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="180" width="180"/> </a> <a href="https://leetcode.com/medal/?showImg=0&id=8492804&isLevel=false" target="_blank"> <img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_Bug_50.gif" height="180" width="180"/> </a></p>
+## 🧩 LeetCode Achievement  
+<p align="center">  
+  <a href="https://leetcode.com/u/shweta_bhoyar1/" target="_blank">  
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_Bug_50.gif" height="180" width="180"/>  
+  </a>  
+</p>
+
 ---
 ⚡ Current Statistics
 <div align="center"> <img width=390 src="https://streak-stats.demolab.com/?user=shwet369&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=390 src="https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" /> </div>
@@ -101,13 +107,6 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 - ✍️ Published 3+ educational articles on Data Science and AI  
 - 🧠 Skilled in Deep Learning, NLP, and Reinforcement Learning  
 
----
-
-## 📊 GitHub Insights  
-
-![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwet369&theme=tokyonight)
 
 ---
 
