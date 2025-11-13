@@ -1,21 +1,42 @@
 # 🌟 Welcome to Shweta's Data Science Diary!  
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+> 🌍 *Data fuels the future — I build the models that make it intelligent.*
+
 ---
 
 ## 👋 Hi there, I'm Shwet Bhoyar!  
 🚀 **Data Scientist | Machine Learning & AI Enthusiast | Data Analyst**  
-🎯 Passionate about transforming data into insights and building intelligent systems that solve real-world problems.
+🎯 Passionate about transforming data into intelligence and building scalable, impactful AI systems.
 
 ---
 
 ## 💡 About Me  
 
-- 📊 Experienced in **Data Analytics, Machine Learning, Deep Learning, and Generative AI**  
+I’m a data scientist passionate about transforming data into business-driven intelligence.  
+I love bridging analytics and AI to create scalable, human-centered solutions.  
+
+- 📊 Skilled in **Data Analytics, Machine Learning, Deep Learning, and Generative AI**  
 - 🎓 **Certified Data Scientist** with a Master’s in Commerce (Statistics & Mathematics)  
 - ✍️ Writing **Data Science blogs** on Medium → [@shwetabhoyar04](https://medium.com/@shwetabhoyar04)  
-- 🌱 Exploring **LangChain, LLMs, NLP, and MLOps**  
-- 🎥 Running a creative YouTube channel — [Motion & Graphics Lab](https://www.youtube.com/@motiongraphicslab)  
+- 🌱 Currently exploring **LangChain, LLMs, NLP, and MLOps**  
+- 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)  
+
+---
+
+## 💼 Experience  
+
+- **Machine Learning Intern – NullClass** | *2024–2025*  
+  Developed CNN-based age and emotion detection models achieving 75%+ accuracy.  
+  Enhanced attendance automation system using face recognition and emotion tracking.
+
+- **Data Science Intern – Cognifyz Technologies** | *2024*  
+  Conducted EDA and applied predictive modeling on restaurant and customer data.  
+  Improved insight generation time by 30% through streamlined Python pipelines.
+
+- **Data Analyst Intern – Evoastra Ventures** | *2023*  
+  Automated dashboard reporting with Python & Power BI, improving decision time by 25%.  
+  Analyzed large SQL datasets to identify performance patterns in car data.
 
 ---
 
@@ -67,10 +88,20 @@
 
 ---
 
+## 🏆 Highlights  
+
+- 📈 Improved ML model accuracy by 30–40% across key projects  
+- 💡 Developed 6+ end-to-end AI & analytics systems from scratch  
+- ✍️ Published 3+ educational articles on Data Science and AI  
+- 🧠 Skilled in Deep Learning, NLP, and Reinforcement Learning  
+
+---
+
 ## 📊 GitHub Insights  
 
 ![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwet369&theme=tokyonight)
 
 ---
 
@@ -80,8 +111,10 @@
 <a href="https://github.com/shwet369"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/shweta-bhoyar-datascience/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="mailto:shwetabhoyar04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="32" height="32" /></a>
+<a href="https://leetcode.com/u/shweta_bhoyar1/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-leetcode-online-judge-for-coding-interviews-logo-shadow-tal-revivo.png" width="32" height="32" /></a>
 <a href="https://medium.com/@shwetabhoyar04"><img src="https://img.icons8.com/color/48/medium-logo.png" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@motiongraphicslab"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@shwetabhoyar-y6j"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
+<a href="https://www.instagram.com/brainsandbytes.shwet/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="32" height="32" /></a>
 </p>
 
 ---
@@ -94,4 +127,9 @@
 
 ✨ *Let’s collaborate on data-driven, creative, and AI-powered projects!*  
 📩 _Reach out if you’d like to build something exciting together._
+
+<!---
+Keywords: Data Scientist, Machine Learning Engineer, NLP, AI Researcher, Deep Learning, Data Analyst, Generative AI, LangChain, LLM
+-->
+
 
