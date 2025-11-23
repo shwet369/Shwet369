@@ -31,7 +31,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
   </a>  
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://leetcode.com/medal/?showImg=0&id=8742751&isLevel=false" height="150" />
   <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="150" />
 </p>
