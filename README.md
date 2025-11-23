@@ -23,17 +23,18 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 - 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)
 ---  
 🏅 LeetCode Progress
- 
+
+
 <p align="center">  
   <a href="https://leetcode.com/u/shweta_bhoyar1/" target="_blank">  
-    <!-- Main animated LeetCode GIF -->
-    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" height="180" width="180"/>
-    <br><br>
-    <!-- Your LeetCode Badge -->
-    <img align="center" src="https://leetcode.com/medal/?showImg=0&id=8742751&isLevel=false" height="120"/>
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" height="180" width="180"/>  
   </a>  
 </p>
 
+<p align="center">
+  <img src="https://leetcode.com/medal/?showImg=0&id=8742751&isLevel=false" height="150" />
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="150" />
+</p>
 
 ---
 ⚡ Current Statistics
