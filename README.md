@@ -101,7 +101,7 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 - [Programming – TestDome](https://www.testdome.com/certificates/ddd71addc57049dead93d53302218a83)  
 - [Credly Badge](https://www.credly.com/badges/73f543bf-85a3-425a-b278-2c3e91e95956)  
 - [Great Learning – Data Science Foundations](https://www.mygreatlearning.com/certificate/FJRPZFPV)  
-- [Great Learning – Python for Machine Learning](https://www.mygreatlearning.com/certificate/VNLDBALS)  
+- [Great Learning – Statistical Methods for Decision Making](https://www.mygreatlearning.com/certificate/VNLDBALS)  
 
 ---
 
