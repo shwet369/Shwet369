@@ -44,11 +44,6 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
        src="https://streak-stats.demolab.com?user=shwet369&count_private=true&theme=react&border_radius=10" 
        alt="streak stats"/>
 
-<img width="390"
-     src="https://stats.dooboo.io/api/github-stats?login=shwet369&theme=react" />
-
-<img width="325"
-     src="https://stats.dooboo.io/api/github-top-langs?login=shwet369&theme=react" />
 
 
 
