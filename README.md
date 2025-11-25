@@ -44,17 +44,12 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
        src="https://streak-stats.demolab.com?user=shwet369&count_private=true&theme=react&border_radius=10" 
        alt="streak stats"/>
 
-  <!-- GitHub Readme Stats -->
-  <img width="390" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shwet369&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-       alt="readme stats"/>
+<img width="390" 
+     src="https://raw.githubusercontent.com/rahulbanerjee26/github-readme-stats/master/generated/overview.svg" />
 
-  <!-- Top Languages -->
-  <img width="325" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shwet369&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" 
-       alt="top langs"/>
+<img width="325" 
+     src="https://raw.githubusercontent.com/rahulbanerjee26/github-readme-stats/master/generated/languages.svg" />
 
-</div>
 
 
 ## 💼 Experience  
