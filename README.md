@@ -27,14 +27,12 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 
 <p align="center">
   <a href="https://leetcode.com/u/shweta_bhoyar1/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="180"/>
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="180" alt="LeetCode Profile"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="180"/>
-  <a align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" alt="Quest Math GIF"/>
-</a>
-
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="180" alt="Data Quest"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" height="180" alt="Quest Math GIF"/>
 </p>
 
 
