@@ -31,6 +31,10 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="180"/>
+  <a align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" alt="Quest Math GIF"/>
+</a>
+
 </p>
 
 
