@@ -44,13 +44,15 @@ I love bridging analytics and AI to create scalable, human-centered solutions.
 
 
 ---
-⚡ Current Statistics
+<!-- Current Statistics -->
 <div align="center">
-
   <!-- Streak Stats -->
-  <img width="390" 
+  <img 
+       width="390" 
        src="https://streak-stats.demolab.com?user=shwet369&count_private=true&theme=react&border_radius=10" 
-       alt="streak stats"/>
+       alt="Shweta's GitHub Streak Stats" 
+       style="border-radius:10px;"/>
+</div>
 
 
 
