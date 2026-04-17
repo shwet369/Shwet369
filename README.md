@@ -1,162 +1,159 @@
-# 🌟 Welcome to Shweta's Data Science Diary!  
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-> 🌍 *Data fuels the future — I build the models that make it intelligent.*
-
----
-
-## 👋 Hi there, I'm Shwet Bhoyar!  
-🚀 **Data Scientist | Machine Learning & AI Enthusiast | Data Analyst**  
-🎯 Passionate about transforming data into intelligence and building scalable, impactful AI systems.
-
----
-
-## 💡 About Me  
-
-I’m a data scientist passionate about transforming data into business-driven intelligence.  
-I love bridging analytics and AI to create scalable, human-centered solutions.  
-
-- 📊 Skilled in **Data Analytics, Machine Learning, Deep Learning, and Generative AI**  
-- 🎓 **Certified Data Scientist** with a Master’s in Commerce (Statistics & Mathematics)  
-- ✍️ Writing **Data Science blogs** on Medium → [@shwetabhoyar04](https://medium.com/@shwetabhoyar04)  
-- 🌱 Currently exploring **LangChain, LLMs, NLP, and MLOps**  
-- 🎥 Running a creative YouTube channel — [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j)
----  
-🏅 LeetCode Progress
-
-
-<p align="center">
-  <a href="https://leetcode.com/u/shweta_bhoyar1/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="180" alt="100 Days Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="180" alt="LeetCode Profile"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="180" alt="Data Quest"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" height="180" alt="Quest Math GIF"/>
-   &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_Algorithm.gif" height="180" alt="Quest Algorithm GIF"/>
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_architecture.gif" height="180" alt="Quest architecture GIF"/>
-</p>
-
-
-
----
-<!-- Current Statistics -->
 <div align="center">
-  <!-- Streak Stats -->
-  <img 
-       width="390" 
-       src="https://streak-stats.demolab.com?user=shwet369&count_private=true&theme=react&border_radius=10" 
-       alt="Shweta's GitHub Streak Stats" 
-       style="border-radius:10px;"/>
+
+# Hi there, I'm Shweta Bhoyar 👋
+
+### Data Scientist · Machine Learning Engineer · AI Enthusiast
+
+*Transforming raw data into business-driven intelligence — building scalable, human-centered AI systems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-bhoyar-datascience/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwet369)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shwetabhoyar04)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shwetashwet)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shwetabhoyar-y6j)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shweta_bhoyar1/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shwetabhoyar04@gmail.com)
+
 </div>
 
+---
 
+## 🚀 About Me
 
+I'm a **Certified Data Scientist** with a Master's in Commerce (Statistics & Mathematics), passionate about bridging analytics and AI to create scalable, impactful solutions.
 
-## 💼 Experience  
-
-- **Data Science Intern – NullClass** | *2024–2025*  
-  Developed CNN-based age and emotion detection models achieving 75%+ accuracy.  
-  Enhanced attendance automation system using face recognition and emotion tracking.
-
-- **Data Science Intern – Cognifyz Technologies** | *2024*  
-  Conducted EDA and applied predictive modeling on restaurant and customer data.  
-  Improved insight generation time by 30% through streamlined Python pipelines.
-
-- **Data Analyst Intern – Evoastra Ventures** | *2024*  
-  Automated dashboard reporting with Python & Power BI, improving decision time by 25%.  
-  Analyzed large SQL datasets to identify performance patterns in car data.
+- 🔭 Currently exploring **LangChain, LLMs, NLP, and MLOps**
+- 📊 Skilled in **Data Analytics, Machine Learning, Deep Learning, and Generative AI**
+- ✍️ Writing Data Science articles on [Medium](https://medium.com/@shwetabhoyar04)
+- 🎥 Running [Brains & Bytes](https://www.youtube.com/@shwetabhoyar-y6j) — a YouTube channel on data science & AI
+- 📈 Improved ML model accuracy by **30–40%** across key projects
+- 💡 Built **6+ end-to-end AI & analytics systems** from scratch
 
 ---
 
-## 🧠 Tech Stack  
+## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, OpenCV  
-**Data Tools:** Power BI, Excel, MySQL, PostgreSQL  
-**Cloud & Deployment:** AWS, Heroku, Streamlit, Flask  
-**Concepts:** NLP, Deep Learning, Reinforcement Learning, Generative AI  
-**Version Control:** Git, GitHub  
+**Languages**
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" /></a>
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" /></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" /></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" /></a>
-<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Machine Learning & AI**
 
-## 🔥 Featured Projects  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-| 🚀 Project | 💬 Description | 🧩 Tech Stack | 🔗 Link |
-|-------------|----------------|---------------|----------|
-| 🎭 **Emotion Detection (FER-2013)** | Built CNN model from scratch to classify human emotions with Grad-CAM visualizations | TensorFlow, Keras, OpenCV | [🔗 View Project](https://github.com/shwet369/Emotion-Detection-CNN) |
-| 🧓 **Age Detection (UTKFace)** | Designed CNN to predict human age using facial datasets with 75%+ accuracy | Python, TensorFlow | [🔗 Repository](https://github.com/shwet369/Age-Detection-UTKFace) |
-| 🧠 **Smart Attendance System** | Real-time attendance + emotion detection web app using face recognition | Python, OpenCV, Flask | [🔗 Project](https://github.com/shwet369/Smart-Attendance-System) |
-| 🛍 **E-Commerce Recommendation System** | Reinforcement-based personalized recommendation system for e-commerce | Python, RL, Flask | [🔗 Repository](https://github.com/shwet369/Hyper-Personalized-Recommendation) |
-| 💬 **Sentiment Analysis (iNeuron)** | Trained NLP model to classify and analyze sentiments of reviews | Python, NLTK, SpaCy | [🔗 Repository](https://github.com/shwet369/Sentiment-Analysis) |
-| 🚗 **Car Data Analysis (Evoastra Ventures)** | Analyzed car performance data and built dashboards | Power BI, SQL, Python | [🔗 Project](https://github.com/shwet369/Isuzu_Cars_in_Mumbai_Project-) |
+**Data & Analytics**
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-## 🧾 Certifications  
+**Databases**
 
-- [Oracle Generative AI – Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3004382663597BAC691753942ED038CC93F99F6D0A90E167985FE082BEA42AB)  
-- [SQL (Basic) – HackerRank](https://www.hackerrank.com/certificates/cda7735566ac)  
-- [Programming – TestDome](https://www.testdome.com/certificates/ddd71addc57049dead93d53302218a83)  
-- [Credly Badge](https://www.credly.com/badges/73f543bf-85a3-425a-b278-2c3e91e95956)  
-- [Great Learning – Data Science Foundations](https://www.mygreatlearning.com/certificate/FJRPZFPV)  
-- [Great Learning – Statistical Methods for Decision Making](https://www.mygreatlearning.com/certificate/VNLDBALS)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Deployment & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Concepts:** NLP · Deep Learning · Reinforcement Learning · Generative AI · Computer Vision · MLOps
 
 ---
 
-## 🏆 Highlights  
+## 💼 Experience
 
-- 📈 Improved ML model accuracy by 30–40% across key projects  
-- 💡 Developed 6+ end-to-end AI & analytics systems from scratch  
-- ✍️ Published 3+ educational articles on Data Science and AI  
-- 🧠 Skilled in Deep Learning, NLP, and Reinforcement Learning  
-
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://github.com/shwet369"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/shweta-bhoyar-datascience/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="mailto:shwetabhoyar04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="32" height="32" /></a>
-<a href="https://leetcode.com/u/shweta_bhoyar1/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode"/></a>
-<a href="https://medium.com/@shwetabhoyar04"><img src="https://img.icons8.com/color/48/medium-logo.png" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@shwetabhoyar-y6j"><img src="https://img.icons8.com/color/48/youtube-play.png" width="32" height="32" /></a>
-<a href="https://www.instagram.com/brainsandbytes.shwet/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="32" height="32" /></a>
-  <a href="https://www.kaggle.com/shwetashwet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32" height="32" alt="Kaggle"/> </a>
-</p>
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| **Data Science Intern** | NullClass | 2024 – 2025 | CNN-based age & emotion detection (75%+ accuracy); face recognition attendance system |
+| **Data Science Intern** | Cognifyz Technologies | 2024 | EDA & predictive modeling; improved insight generation time by 30% |
+| **Data Analyst Intern** | Evoastra Ventures | 2024 | Automated Power BI dashboards; improved decision time by 25%; large-scale SQL analysis |
 
 ---
 
-### ☕ Support My Work  
+## 🔥 Featured Projects
 
-<a href="https://www.buymeacoffee.com/shweta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🎭 **Emotion Detection (FER-2013)** | CNN from scratch classifying human emotions with Grad-CAM visualisations | TensorFlow, Keras, OpenCV | [View →](https://github.com/shwet369/Emotion-Detection-CNN) |
+| 🧓 **Age Detection (UTKFace)** | CNN predicting human age from facial datasets with 75%+ accuracy | Python, TensorFlow | [View →](https://github.com/shwet369/Age-Detection-UTKFace) |
+| 🧠 **Smart Attendance System** | Real-time attendance + emotion detection web app via face recognition | Python, OpenCV, Flask | [View →](https://github.com/shwet369/Smart-Attendance-System) |
+| 🛍 **E-Commerce Recommender** | Reinforcement-based personalised recommendation engine | Python, RL, Flask | [View →](https://github.com/shwet369/Hyper-Personalized-Recommendation) |
+| 💬 **Sentiment Analysis** | NLP model classifying sentiments across customer reviews | Python, NLTK, SpaCy | [View →](https://github.com/shwet369/Sentiment-Analysis) |
+| 🚗 **Car Data Analysis** | Performance data analysis and interactive dashboards | Power BI, SQL, Python | [View →](https://github.com/shwet369/Isuzu_Cars_in_Mumbai_Project-) |
 
 ---
 
-✨ *Let’s collaborate on data-driven, creative, and AI-powered projects!*  
-📩 _Reach out if you’d like to build something exciting together._
+## 🏅 GitHub Stats
 
-<!---
-Keywords: Data Scientist, Machine Learning Engineer, NLP, AI Researcher, Deep Learning, Data Analyst, Generative AI, LangChain, LLM
--->
+<div align="center">
 
+<img width="390" src="https://streak-stats.demolab.com?user=shwet369&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
+&nbsp;
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=shwet369&show_icons=true&theme=react&border_radius=10&count_private=true" alt="GitHub Stats"/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwet369&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-shweta__bhoyar1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shweta_bhoyar1/)
+
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" alt="100 Days Badge"/>
+&nbsp;
+<img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" height="100" alt="Data Quest"/>
+&nbsp;
+<img src="https://assets.leetcode.com/static_assets/others/Quest_Algorithm.gif" height="100" alt="Algorithm Quest"/>
+
+</div>
+
+---
+
+## 🧾 Certifications
+
+- 🏅 [Oracle Generative AI Professional — Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3004382663597BAC691753942ED038CC93F99F6D0A90E167985FE082BEA42AB)
+- 🏅 [SQL (Basic) — HackerRank](https://www.hackerrank.com/certificates/cda7735566ac)
+- 🏅 [Data Science Foundations — Great Learning](https://www.mygreatlearning.com/certificate/FJRPZFPV)
+- 🏅 [Statistical Methods for Decision Making — Great Learning](https://www.mygreatlearning.com/certificate/VNLDBALS)
+- 🏅 [Programming — TestDome](https://www.testdome.com/certificates/ddd71addc57049dead93d53302218a83)
+- 🏅 [Credly Badge](https://www.credly.com/badges/73f543bf-85a3-425a-b278-2c3e91e95956)
+
+---
+
+## 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+> ✍️ I write about Data Science, ML, and AI on [Medium → @shwetabhoyar04](https://medium.com/@shwetabhoyar04)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/shweta)
+
+---
+
+*✨ Let's collaborate on data-driven, creative, and AI-powered projects!*
+*📩 Reach out at [shwetabhoyar04@gmail.com](mailto:shwetabhoyar04@gmail.com)*
+
+</div>
 
