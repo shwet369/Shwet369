@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shweta Bhoyar 👋
 
-### Data Scientist · Machine Learning Engineer · AI Enthusiast
+### Data Scientist · Machine Learning Engineer · AI 
 
 *Transforming raw data into business-driven intelligence — building scalable, human-centered AI systems.*
 
