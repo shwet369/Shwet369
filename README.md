@@ -87,7 +87,7 @@ I'm a **Certified Data Scientist** with a Master's in Commerce (Statistics & Mat
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | 🎭 **Emotion Detection (FER-2013)** | CNN from scratch classifying human emotions with Grad-CAM visualisations | TensorFlow, Keras, OpenCV | [View →](https://github.com/shwet369/Emotion-Detection-CNN) |
-| 🧓 **Age Detection (UTKFace)** | CNN predicting human age from facial datasets with 75%+ accuracy | Python, TensorFlow | [View →](https://github.com/shwet369/Age-Detection-UTKFace) |
+| 🧓 **Age Detection (UTKFace)** | CNN predicting human age from facial datasets with 75%+ accuracy | Python, TensorFlow | [View →](https://github.com/shwet369/Fine-Tune-CNN-Model-for-Age-Detection-UTKFace-Dataset-) |
 | 🧠 **Smart Attendance System** | Real-time attendance + emotion detection web app via face recognition | Python, OpenCV, Flask | [View →](https://github.com/shwet369/Smart-Attendance-System) |
 | 🛍 **E-Commerce Recommender** | Reinforcement-based personalised recommendation engine | Python, RL, Flask | [View →](https://github.com/shwet369/Hyper-Personalized-Recommendation) |
 | 💬 **Sentiment Analysis** | NLP model classifying sentiments across customer reviews | Python, NLTK, SpaCy | [View →](https://github.com/shwet369/Sentiment-Analysis) |
